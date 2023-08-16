@@ -1,0 +1,19 @@
+.header{
+    background-color: black;
+    color:azure;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.count{
+    font-size: 20px;
+    padding:20px;
+}
+.count sup{
+    background-color: blue;
+    padding:5px;
+    font-size: 15px;
+    border-radius: 50%;
+}
